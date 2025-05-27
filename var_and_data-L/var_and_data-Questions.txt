@@ -1,0 +1,43 @@
+
+
+## 🔰 **Basic Java Questions on Data Types & Variables**
+
+1. **What is a variable in Java?**
+2. **What are the 8 primitive data types in Java? List them with examples.**
+3. **What is the default value of a `boolean`, `int`, and `char` in Java?**
+4. **Write Java code to declare and initialize variables of type `int`, `double`, `char`, and `boolean`.**
+5. **What is the difference between `float` and `double`?**
+6. **What is a `String` in Java? Is it a primitive data type?**
+7. **What is the output of the following code?**
+
+   ```java
+   int x = 5;
+   double y = x;
+   System.out.println(y);
+   ```
+8. **Which of the following are valid variable names in Java?**
+
+   * `int 1num;`
+   * `float _rate;`
+   * `char $letter;`
+   * `double class;`
+9. **Can a variable declared inside a method be accessed outside the method? Why or why not?**
+10. **What is type casting? Give an example of both implicit and explicit casting.**
+
+---
+
+## 🧠 **Intermediate Java Questions on Data Types & Variables**
+
+11. **Explain the difference between instance, local, and static variables in Java.**
+12. **What is the purpose of the `final` keyword in variable declarations?**
+13. **What is the size and range of `byte`, `short`, `int`, and `long` in Java?**
+14. **Write a program that swaps two variables without using a third variable.**
+15. **What is the difference between `==` and `.equals()` when comparing variables of reference types like `String`?**
+16. **What is autoboxing and unboxing in Java? Give examples.**
+17. **Write a program to input a number as a `String` and convert it to an `int` using `Integer.parseInt()`. Handle exceptions.**
+18. **Demonstrate the overflow behavior of a `byte` data type with an example.**
+19. **What is variable shadowing? Show it with a class and method.**
+20. **How are wrapper classes used with primitive data types? Why are they useful?**
+
+---
+
