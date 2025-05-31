@@ -1,0 +1,81 @@
+
+### ✅ **Medium-Level Questions (1–10)**
+
+1. **Leap Year Check (with edge cases)**
+   Write a program to check whether a year is a leap year. Consider the rule: a year is a leap year if divisible by 4, but not by 100 unless also divisible by 400.
+
+2. **Check if character is vowel or consonant**
+   Accept a character and determine whether it's a vowel or consonant. Handle both lowercase and uppercase inputs.
+
+3. **Find the largest among three numbers using nested if-else**
+   Take three numbers and print the largest one using only `if` and `else`.
+
+4. **Grading System**
+   Input a mark (0–100) and print the grade using the following:
+
+   * 90–100: A
+   * 80–89: B
+   * 70–79: C
+   * 60–69: D
+   * <60: F
+
+5. **Even or Odd without `%` operator**
+   Determine if a number is even or odd **without** using the modulus operator.
+
+6. **Check triangle type**
+   Input three sides and print whether the triangle is Equilateral, Isosceles, or Scalene.
+
+7. **Check for Armstrong Number (3 digits)**
+   Determine if a number is an Armstrong number (e.g., 153 = 1³ + 5³ + 3³).
+
+8. **Check if number lies between two numbers**
+   Check if a number is between two others, regardless of the order of the boundaries.
+
+9. **Sign of a number**
+   Input a number and print whether it is positive, negative, or zero.
+
+10. **Convert number to day of week using switch**
+    1 for Monday, 2 for Tuesday, etc. Use `switch`. Handle default case for invalid input.
+
+---
+
+### 🔥 **Tough-Level Questions (11–20)**
+
+11. **Nested condition: Voting and driving eligibility**
+    Input age and determine if a person can:
+
+* Only vote (18+)
+* Only drive (16+)
+* Both
+* Neither
+
+12. **Check if a year, month, and day make a valid date (non-leap)**
+    Input day, month, and year, and verify if it is a valid date.
+
+13. **Login system with username and password (3 attempts)**
+    Simulate a simple login system that locks the user out after 3 incorrect attempts.
+
+14. **Rock-Paper-Scissors Game logic**
+    Take two inputs (Player 1 and Player 2) and determine who wins using `if-else`.
+
+15. **Evaluate mathematical expression based on operator input**
+    Input two numbers and an operator (`+`, `-`, `*`, `/`, `%`) and compute the result using `switch`.
+
+16. **Grade Evaluation with multiple conditions**
+    If marks >=90 and attendance >=80 → "Excellent",
+    else if marks >=75 → "Good",
+    else → "Needs Improvement".
+
+17. **ATM withdrawal logic**
+    Check if a user can withdraw based on balance, and ensure balance doesn’t go negative.
+
+18. **Find the quadrant of a point (x, y)**
+    Determine which quadrant the point lies in.
+
+19. **Nested switch: Car service menu**
+    First choose brand (Toyota, Honda), then choose service (Oil Change, Tire Rotation), and print cost.
+
+20. **Check if a number is a palindrome (using only conditionals)**
+    Input a 3 or 4-digit number and check if it's a palindrome using if-else logic.
+
+
