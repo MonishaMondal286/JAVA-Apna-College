@@ -1,16 +1,16 @@
 
 ### ✅ **Medium-Level Questions (1–10)**
 
-1. **Leap Year Check (with edge cases)**
+1. **Leap Year Check (with edge cases)**                    #done 
    Write a program to check whether a year is a leap year. Consider the rule: a year is a leap year if divisible by 4, but not by 100 unless also divisible by 400.
 
-2. **Check if character is vowel or consonant**
+2. **Check if character is vowel or consonant**            #not done 
    Accept a character and determine whether it's a vowel or consonant. Handle both lowercase and uppercase inputs.
 
-3. **Find the largest among three numbers using nested if-else**
+3. **Find the largest among three numbers using nested if-else**   #done 
    Take three numbers and print the largest one using only `if` and `else`.
 
-4. **Grading System**
+4. **Grading System**   #done 
    Input a mark (0–100) and print the grade using the following:
 
    * 90–100: A
