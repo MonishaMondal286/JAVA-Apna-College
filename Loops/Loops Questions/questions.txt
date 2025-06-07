@@ -1,0 +1,78 @@
+Here are **20 basic to intermediate questions** on **loops in Java**, covering `for`, `while`, `do-while`, nested loops, and control statements like `break` and `continue`:
+
+---
+
+### 🔁 **Basic Loop Questions**
+
+1. **What are the three types of loops in Java? Explain with syntax.**
+
+2. **Write a `for` loop that prints numbers from 1 to 10.**
+
+3. **Write a `while` loop to calculate the sum of numbers from 1 to 100.**
+
+4. **What is the difference between `while` and `do-while` loops in Java?**
+
+5. **How can you write an infinite loop using a `for` loop?**
+
+6. **Write a Java program using a `do-while` loop that continues to take user input until the user enters 0.**
+
+7. **What will be the output of the following code?**
+
+   ```java
+   for (int i = 0; i < 5; i++) {
+       System.out.print(i + " ");
+   }
+   ```
+
+8. **What happens if the condition in a `while` loop is always false?**
+
+9. **Explain the use of the `break` statement in loops with an example.**
+
+10. **Explain the use of the `continue` statement in loops with an example.**
+
+---
+
+### 🔁 **Intermediate Loop Questions**
+
+11. **Write a program using nested `for` loops to print the following pattern:**
+
+    ```
+    *
+    **
+    ***
+    ****
+    *****
+    ```
+
+12. **What will be the output of the following nested loop?**
+
+    ```java
+    for (int i = 1; i <= 3; i++) {
+        for (int j = 1; j <= 2; j++) {
+            System.out.print(i + "," + j + " ");
+        }
+    }
+    ```
+
+13. **Write a loop that finds the factorial of a number entered by the user.**
+
+14. **Convert the following `for` loop into a `while` loop:**
+
+    ```java
+    for (int i = 0; i < 10; i++) {
+        System.out.println(i);
+    }
+    ```
+
+15. **What is a nested loop? Give a real-world example where nested loops are useful.**
+
+16. **How do you exit from nested loops using `break` with a label? Provide code.**
+
+17. **Write a program that prints only even numbers from 1 to 20 using a loop.**
+
+18. **Write a loop to print the multiplication table of a number entered by the user.**
+
+19. **What is the time complexity of a nested `for` loop, and how can it affect performance?**
+
+20. **Modify a loop to skip printing numbers that are multiples of 3 from 1 to 20 using `continue`.**
+

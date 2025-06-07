@@ -1,0 +1,17 @@
+soln.1) while loop, do-while loop and for loop
+        while loop ->  while(){
+                         //code
+                        }
+        do-while loop -> do(condition){
+                          //code
+                        }while();
+        for loop --->   for(condition){
+                           //code
+                         }
+
+
+soln.4) while --> checks the condition and prints the output
+        do-while --> prints output after that checks the condition 
+
+soln.5) does not print a output 
+   
