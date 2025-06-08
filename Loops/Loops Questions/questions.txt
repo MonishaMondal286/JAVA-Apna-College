@@ -66,6 +66,7 @@ Here are **20 basic to intermediate questions** on **loops in Java**, covering `
 
 15. **What is a nested loop? Give a real-world example where nested loops are useful.**
 
+
 16. **How do you exit from nested loops using `break` with a label? Provide code.**
 
 17. **Write a program that prints only even numbers from 1 to 20 using a loop.**

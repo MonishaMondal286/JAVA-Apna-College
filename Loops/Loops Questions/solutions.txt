@@ -14,4 +14,6 @@ soln.4) while --> checks the condition and prints the output
         do-while --> prints output after that checks the condition 
 
 soln.5) does not print a output 
+
+soln.15) loop printed inside another loop
    
