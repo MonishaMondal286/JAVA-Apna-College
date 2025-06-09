@@ -1,0 +1,118 @@
+Sure! Here are **10 basic pattern questions in Java** (without solutions). These are great for practicing nested loops and understanding control flow.
+
+---
+
+### 🔹 1. Right-Angled Triangle of Stars
+
+```
+*
+**
+***
+****
+```
+
+---
+
+### 🔹 2. Inverted Right-Angled Triangle of Stars
+
+```
+****
+***
+**
+*
+```
+
+---
+
+### 🔹 3. Right-Angled Number Triangle
+
+```
+1
+12
+123
+1234
+```
+
+---
+
+### 🔹 4. Inverted Number Triangle
+
+```
+1234
+123
+12
+1
+```
+
+---
+
+### 🔹 5. Right-Angled Character Triangle
+
+```
+A
+AA
+AAA
+AAAA
+```
+
+---
+
+### 🔹 6. Incrementing Character Pattern
+
+```
+A
+B B
+C C C
+D D D D
+```
+
+---
+
+### 🔹 7. Pyramid of Stars
+
+```
+   *   
+  ***  
+ ***** 
+*******
+```
+
+---
+
+### 🔹 8. Diamond Pattern
+
+```
+   *   
+  ***  
+ ***** 
+*******
+ ***** 
+  ***  
+   *   
+```
+
+---
+
+### 🔹 9. Number Pyramid
+
+```
+   1
+  121
+ 12321
+1234321
+```
+
+---
+
+### 🔹 10. Floyd’s Triangle
+
+```
+1
+2 3
+4 5 6
+7 8 9 10
+```
+
+---
+
+Let me know if you'd like solutions or explanations for any of these!
