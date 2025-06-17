@@ -1,0 +1,35 @@
+Here are **20 basic to intermediate-level Java function (method) questions** that can help you practice and solidify your understanding of Java methods:
+
+---
+
+### ✅ **Basic Level (1–10)**
+
+1. **Write a method to add two integers and return the result.**
+2. **Write a method to check whether a number is even or odd.**
+3. **Write a method that takes a string and returns its length.**
+4. **Write a method that prints "Hello, World!" 5 times using a loop.**
+5. **Write a method to calculate the factorial of a number.**
+6. **Write a method to check if a number is prime.**
+7. **Write a method that takes an array of integers and returns the largest element.**
+8. **Write a method that reverses a given string.**
+9. **Write a method that swaps two numbers using a temporary variable.**
+10. **Write a method to check whether a string is a palindrome.**
+
+---
+
+### ✅ **Intermediate Level (11–20)**
+
+11. **Write a method to calculate the nth Fibonacci number using recursion.**
+12. **Write a method to sort an array using bubble sort.**
+13. **Write a method to count the number of vowels in a string.**
+14. **Write a method that returns the sum of digits of a number.**
+15. **Write a method to find the GCD (Greatest Common Divisor) of two numbers.**
+16. **Write a method to find and return all prime numbers in an array.**
+17. **Write a method that converts Celsius to Fahrenheit.**
+18. **Write a method that accepts a variable number of integer arguments and returns their average.**
+19. **Write a method that checks if a given year is a leap year.**
+20. **Write a method that accepts an array and a number, and returns true if the number is present in the array.**
+
+---
+
+Would you like Java code examples for any of these?
