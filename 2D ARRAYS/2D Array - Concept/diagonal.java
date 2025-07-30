@@ -19,7 +19,7 @@ public static int diagonalSum(int matrix[][]){
     //optimal method - O(n)
     for(int i=0; i<matrix.length;i++){
         //pd- primary diagonal
-        sum+=matrix[i][i];
+        sum+=matrix[i][i]; 
         //sd - secondary diagonal
         if(i!= matrix.length-1-i)
            sum+=matrix[i][matrix.length-i-1];
