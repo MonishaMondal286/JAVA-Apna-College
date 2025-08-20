@@ -1,18 +1,20 @@
 public class palindrome {
-    public static boolean CheckPalindrome(String str){
-        for(int i=0;i<str.length();i++){
-            int n = str.length();
-            if((str.charAt(i)) != (str.charAt(n-i-1))){
-                //not  a palindrome 
+    public static boolean CheckPalindrome(String str) {
+        int left = 0;
+        int right = str.length() - 1;
+        
+        while (left < right) {
+            if (str.charAt(left) != str.charAt(right)) {
                 return false;
             }
+            left++;
+            right--;
         }
         return true;
+    }
 
-        }
-    public static void main(String args[]){
-            String word = "racecar";
-
-            System.out.println(CheckPalindrome(word));
-        }
+    public static void main(String args[]) {
+        String word = "racecar";
+        System.out.println(CheckPalindrome(word));
+    }
 }

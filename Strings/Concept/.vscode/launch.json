@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StringLength",
+            "request": "launch",
+            "mainClass": "StringLength",
+            "projectName": "Concept_504f5d49"
+        },
+        {
+            "type": "java",
+            "name": "PrintString",
+            "request": "launch",
+            "mainClass": "PrintString",
+            "projectName": "Concept_504f5d49"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "Concept_504f5d49"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

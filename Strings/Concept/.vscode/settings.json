@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [""],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.console": "integratedTerminal",
+    "java.debug.settings.hotCodeReplace": "auto",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.class": true
+    }
+}
