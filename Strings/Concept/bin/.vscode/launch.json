@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "compare",
+            "request": "launch",
+            "mainClass": "compare",
+            "projectName": "Concept_504f5d49"
+        },
+        {
+            "type": "java",
+            "name": "shortestpath",
+            "request": "launch",
+            "mainClass": "shortestpath",
+            "projectName": "Concept_504f5d49"
+        },
+        {
+            "type": "java",
             "name": "StringLength",
             "request": "launch",
             "mainClass": "StringLength",
