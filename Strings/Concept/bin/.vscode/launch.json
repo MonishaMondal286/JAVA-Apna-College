@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "ex2",
+            "projectName": "Concept_504f5d49"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "ex1",
+            "projectName": "Concept_504f5d49"
+        },
+        {
+            "type": "java",
             "name": "compare",
             "request": "launch",
             "mainClass": "compare",
